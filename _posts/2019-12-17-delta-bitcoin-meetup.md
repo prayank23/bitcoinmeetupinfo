@@ -12,4 +12,4 @@ Place: Mumbai
 
 ### Details
 
-https://delta.bitcoinmeetup.info/
+[https://delta.bitcoinmeetup.info/](https://delta.bitcoinmeetup.info/)
