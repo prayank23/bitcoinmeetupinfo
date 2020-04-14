@@ -2,7 +2,7 @@
 category: Meetups
 
 title: 'Bangalore Bitcoin Meetup'
-type: '₿'
+
 
 layout: nil
 ---
