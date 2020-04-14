@@ -1,8 +1,8 @@
 ---
-category: Meetups
-path: '/meetups/:i'
+category: Stuff
+path: '/meetups'
 title: 'Delta Bitcoin Meetup'
-type: 'GET'
+type: '₿'
 
 layout: nil
 ---
