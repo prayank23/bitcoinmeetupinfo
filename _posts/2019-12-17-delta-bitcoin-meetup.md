@@ -1,6 +1,6 @@
 ---
 category: Meetups
-path: '/meetups I'
+path: '/meetups/:i'
 title: 'Delta Bitcoin Meetup'
 type: 'GET'
 
