@@ -1,5 +1,5 @@
 ---
-category: stuff
+category: Stuff
 path: '/meetups'
 title: 'Bangalore Bitcoin Meetup'
 type: '₿'
