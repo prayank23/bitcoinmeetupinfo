@@ -2,7 +2,7 @@
 category: Meetups
 path: '/meetups I'
 title: 'Delta Bitcoin Meetup'
-type: '₿'
+type: 'GET'
 
 layout: nil
 ---
