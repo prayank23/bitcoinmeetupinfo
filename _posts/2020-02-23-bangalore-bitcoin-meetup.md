@@ -2,7 +2,7 @@
 category: Meetups
 path: '/meetups'
 title: 'Bangalore Bitcoin Meetup'
-type: '₿'
+type: 'POST'
 
 layout: nil
 ---
