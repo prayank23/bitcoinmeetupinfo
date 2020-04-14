@@ -195,12 +195,12 @@ code {
   background: #52ce0e;
 }
 
-/* MEETUP */
-#content article.₿ a h2 code {
+/* PUT */
+#content article.PUT a h2 code {
   color: #e08f10;
 }
 
-#content article.₿ a h2 code b {
+#content article.PUT a h2 code b {
   background: #e08f10;
 }
 
