@@ -1,6 +1,6 @@
 ---
 category: Meetups
-path: '/meetups/:id'
+
 title: 'Bangalore Bitcoin Meetup'
 type: '₿'
 
