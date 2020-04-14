@@ -1,5 +1,5 @@
 ---
-category: Stuff
+category: Meetups
 path: '/meetups'
 title: 'Delta Bitcoin Meetup'
 type: '₿'
